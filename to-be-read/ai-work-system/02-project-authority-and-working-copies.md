@@ -1,3 +1,9 @@
+# 2. Project Authority and Working Copies
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved workflow explanation
+
+This saved explanation distinguishes project authority, the active working surface, and the conversation thread. Project paths and examples belong to the original discussion.
+
 Yes — this is another important distinction, and the key is:
 
 > **The thread should follow the task, not the machine or platform.**

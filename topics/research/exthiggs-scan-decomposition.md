@@ -1,3 +1,8 @@
+# ExtHiggs Scan Decomposition
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Planning reference
+
+This table separates the scan into responsibilities and lists information each step depends on. It is a planning map; implementation details still need to be checked against the model files and the exact PySR expression.
 
 | Component | Responsibility | Information it depends on |
 |---|---|---|

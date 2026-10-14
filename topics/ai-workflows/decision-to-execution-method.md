@@ -1,5 +1,8 @@
-Decision to Execution Method
-============================
+# Decision-to-Execution Method
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved working method
+
+This is a proposed method for turning a finalized decision into an organized execution process. It is saved reference material, not evidence that a particular project has implemented the method.
 
 This is a proposed working method for turning a finalized AI-assisted decision into an organized execution process. Its practical test is whether a fresh thread can resume useful work from current records without reconstructing the original discussion.
 

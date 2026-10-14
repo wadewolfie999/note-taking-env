@@ -1,3 +1,9 @@
+# 4. Work Lifecycle
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved workflow synthesis
+
+This saved synthesis expands the work loop into stages and preserves the discussion's proposed lifecycle. Treat the stages as a working model, not a finalized policy.
+
 Yes — this is a strong conceptual backbone. But for the system you are actually trying to build, I would make one important correction:
 
 **“Decide” is too compressed.**

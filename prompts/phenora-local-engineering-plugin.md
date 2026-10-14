@@ -1,3 +1,9 @@
+# Phenora Local Engineering Plugin — Creation Brief
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved implementation prompt
+
+This note preserves a saved explanation and the embedded creation brief. The brief's own version, authority rules, and instructions are part of the saved prompt and remain unchanged.
+
 Yes—**one private, local Codex plugin containing seven focused skills** is the right starting point. Those skills would preserve the seven responsibilities shown in your screenshot as reusable workflows. The currently active “Execution relocation” role can fit within the runtime-audit capability.
 
 OpenAI’s current documentation supports skills-only plugins when Codex’s existing tools are sufficient. A new MCP server is optional, so I would begin with skills and a few deterministic local helpers where needed. The current packaging guidance recommends a root `plugin.json`; a Codex compatibility manifest can be included when the installed host requires it. [Plugin architecture](https://developers.openai.com/plugins/concepts/plugins), [Build skills](https://developers.openai.com/plugins/build/skills), [Package your plugin](https://developers.openai.com/plugins/build/plugins).

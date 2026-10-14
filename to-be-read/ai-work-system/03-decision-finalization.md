@@ -1,3 +1,9 @@
+# 3. Decision Finalization
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved design recommendation
+
+This saved recommendation explores the transition from a candidate decision to a finalized decision and how that boundary connects to execution. It does not record an adopted system.
+
 Yes. I would choose **Option 2: a fresh Astra-High thread**, and then use the original Decision-to-Execution thread only afterward as an **integration reviewer**.
 
 The reason is architectural, not cosmetic.

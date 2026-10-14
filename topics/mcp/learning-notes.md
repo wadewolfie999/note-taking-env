@@ -1,3 +1,9 @@
+# MCP Learning Notes
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved syllabus and conversation
+
+This file contains an initial lesson prompt, a saved syllabus, and a conversation transcript. It records the intended learning path; it does not imply that the lessons were completed.
+
 before starting lesson 1; 
 
 - suggest a name for current thread,
@@ -6,7 +12,9 @@ before starting lesson 1;
 ---
 
 
-# Transcript of Vahid and GPT: `https://chatgpt.com/share/6aa426bc-9614-83ed-b2c9-7b9276196ec4`
+## Transcript of Vahid and GPT
+
+Source conversation: https://chatgpt.com/share/6aa426bc-9614-83ed-b2c9-7b9276196ec4
 
 let's forget all of this and you start acting like tutor to my role which is the one needing the tutorship! 
 
@@ -90,3 +98,6 @@ You can paste or attach that note in a fresh thread. It makes continuation expli
 The course covers purpose, mechanism, safety, practice, troubleshooting, and handoff. Advanced implementation stays optional. “I don’t need MCP for this task” is a perfectly successful conclusion.
 
 When you’re ready, say **“Start lesson 1.”**
+
+
+Related attachment: [MCP learning roadmap](learning-roadmap.png).

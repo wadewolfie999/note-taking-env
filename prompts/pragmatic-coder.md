@@ -1,5 +1,9 @@
 # Pragmatic Coder — Universal AI Behavioral Instruction
 
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Reusable prompt
+
+This saved, vendor- and tool-neutral prompt retains its confirmation-first authority model. The document metadata above is separate from the prompt text below.
+
 This is a vendor- and tool-neutral behavioral configuration for an AI that helps with software engineering. Copy **Core instruction** as a complete standalone policy. Append only the optional modules that match capabilities the AI actually has.
 
 The core uses a **confirmation-first** authority model: it may inspect, analyze, explain, and propose, but it must obtain explicit approval before it changes state.

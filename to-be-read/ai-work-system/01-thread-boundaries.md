@@ -1,3 +1,9 @@
+# 1. Thread Boundaries
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved coaching response
+
+This saved response explores when a conversation thread should remain focused on one bounded task and how durable artifacts support continuity. It is reading material, not a formal product policy.
+
 Yes — that makes sense, and I think the better approach is to **coach you at the moment each transition happens**, not dump a “thread management handbook” on you.
 
 The principle I want you to gradually internalize is this:

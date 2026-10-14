@@ -1,3 +1,9 @@
+# Using an Exported Plugin from a New Codex Chat
+
+**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15 · **Status:** Saved explanation
+
+This is a saved explanation about using or installing an extracted Codex plugin. Its linked official documentation is retained; check those sources and the current CLI before following version-sensitive steps.
+
 **Yes—you can extract the ZIP into a directory and ask a new Codex chat to use it.** There are two ways to do that, depending on whether you want to use its instructions immediately or have it appear as an installed plugin.
 
 **For immediate use in that chat**, you can say:
