@@ -1,6 +1,14 @@
 # Changelog
 
-**Version:** 0.0.1 · **Previous version:** unversioned · **Revised:** 2026-10-15
+**Version:** 0.1.0 · **Previous version:** 0.0.1 · **Revised:** 2026-10-15
+
+## 0.1.0 — 2026-10-15
+
+Added the [Codex, MCP, and Ollama practical field guide](topics/mcp/codex-ollama/README.md) under `topics/mcp/codex-ollama/`. The eleven new Markdown files cover the mental model, `codex mcp` commands, Ollama architectures, public implementations, focused server design, practical recipes, validation, an adoption sequence, research evidence, and a primary-source register with pinned repository revisions.
+
+The research includes official OpenAI/MCP/Ollama documentation, sixteen GitHub repository snapshots, and a GitLab-hosted learning project. It identifies archived or dated examples and separates source inspection from runtime verification. A small teaching server and companion check were exercised in memory and over stdio using Python 3.12.14 and `mcp==2.3.0`; live Ollama inference and third-party integrations remain untested.
+
+The root index and this changelog advance from 0.0.1 to 0.1.0 for a substantial new reference collection. Each new guide document starts at 0.0.1. Existing note paths, saved conversations, prompts, and attachments retain their content and versions.
 
 ## 0.0.1 — 2026-10-15
 

@@ -1,6 +1,6 @@
 # Note-Taking Environment
 
-**Version:** 0.0.1 *(document metadata)* · **Revised:** 2026-10-15
+**Version:** 0.1.0 *(document metadata)* · **Previous version:** 0.0.1 · **Revised:** 2026-10-15
 
 This repository is a personal library for notes from books, articles, and conversations. It collects research references, reusable AI prompts, developer-tool explanations, personal observations, and material saved for later reading. Saved explanations are labeled with their context so they are not mistaken for fresh verification.
 
@@ -22,6 +22,7 @@ This repository is a personal library for notes from books, articles, and conver
 
 ## Learning notes
 
+- [Codex, MCP, and Ollama practical field guide](topics/mcp/codex-ollama/README.md) — command lessons, official sources, GitHub/GitLab workflows, build guidance, and validation.
 - [MCP learning notes and transcript](topics/mcp/learning-notes.md)
 - [MCP learning roadmap (PNG)](topics/mcp/learning-roadmap.png)
 
